@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7_x86_32"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tess4J/lib/ghost4j-0.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tess4J/lib/jai_imageio.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tess4J/lib/jna.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Tess4J/lib/junit-4.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
